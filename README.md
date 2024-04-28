@@ -37,3 +37,17 @@ Features:
 • Captures Webcam Image.
 • Sends All Data Through Discord Webhooks/Telegram Bot.
 (...more)
+
+
+
+
+
+
+
+
+Automated Tools
+
+Vespian also features a suite of automated tools designed to expedite tasks, including Crypto Wallet Auto Login, Minecraft Auto Login, Steam Auto Login, Uplay Auto Login, and more, streamlining processes for increased efficiency.
+In addition, Vespian encompasses Discord tools like Token Joiner, Account Manager, Mass DM, and various other functionalities tailored to enhance Discord management and productivity.
+
+Lastly, Vespian offers an array of supplementary tools including Computer Enhancer, Python Obfuscator + Compiler, Reverse Engineering tools, a Mini Botnet, Binder, and an extensive selection of additional features to cater to diverse user needs and requirements.
